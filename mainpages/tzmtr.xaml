@@ -1,25 +1,6 @@
 <local:MyCard Title="TZMTR服务器公告">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
-                   Text="恭喜你！你的整合包版本为最新版1.3！&#xA;你在新整合包发布之前都可以不用更新了。" />
-        <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                   Text="启动器每天会自动更新公告。" />
-    </StackPanel>
-</local:MyCard>
-
-<local:MyCard Title="等级制度">
-    <StackPanel Margin="25,40,23,15">
-        <TextBlock Margin="0,0,0,4"
-                   Text="A级 可以建造火车站，APM及一切建筑建筑&#xA;B级 可以建造轻轨，地铁站等公共交通建筑物&#xA;C级 可以建造简单的装饰物等&#xA;D级 无业游民，可找房子居住及搭乘地铁等&#xA;E级 再接再厉&#xA;&#xA;如未得到至少D级游民证书&#xA;您只能创造模式及不能敲打和建造建筑游玩" />
-          <local:MyHint Margin="0,8,0,2" IsWarn="False"
-                   Text="如果你对当前评级不满意，你可以在2小时后再找管理进行评级。" />
-        <local:MyHint Margin="0,8,0,2" IsWarn="True"
-                   Text="任何玩家不得以诽谤，侮辱等方式迫害其他玩家！" />
-    </StackPanel>
-</local:MyCard>
-<local:MyCard Title="TZMTR服务器公告">
-    <StackPanel Margin="25,40,23,15">
-        <TextBlock Margin="0,0,0,4"
                    Text="恭喜你！你的整合包版本为最新版1.4！&#xA;你在新整合包发布之前都可以不用更新了。" />
         <local:MyHint Margin="0,8,0,2" IsWarn="False"
                    Text="启动器每天会自动更新公告。" />
